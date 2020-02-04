@@ -1,0 +1,17 @@
+img{
+    position: absolute;
+}
+p{
+    position: relative;
+    left: 160px;
+    top: 40px;
+    font-family: cursive;
+    letter-spacing: 2px;
+    font-size: 21px;
+}
+.p1{
+    position: absolute;
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
